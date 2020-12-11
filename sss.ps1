@@ -5,4 +5,4 @@ $Selection = $word.Selection
 $Selection.TypeParagraph()
 $Selection.Font.Name = "Times New Roman"
 $Selection.Font.Size = 18
-$Selection.TypeText("Саша вставай")
+$Selection.TypeText("Hello world!")
